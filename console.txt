@@ -1,0 +1,7 @@
+fancyBox already initialized jquery.fancybox.min.js:11:589
+Service Worker registration failed: DOMException: ServiceWorkerContainer.register: Scope URL is not same-origin with Client
+    <anonymous> https://teens.mastivibe.com/chat/:3
+    EventListener.handleEvent* https://teens.mastivibe.com/chat/:1
+chat:8:11
+HTTP “Content-Type” of “text/html” is not supported. Load of media resource https://teens.mastivibe.com/chat/sounds/quote.mp3?v=5.31 failed. chat
+Cannot play media. No decoders for requested formats: text/html
